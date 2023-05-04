@@ -1,4 +1,3 @@
-import client.BrowserCase;
 import client.UserClient;
 import client.WebDriverFactory;
 import io.qameta.allure.Step;
